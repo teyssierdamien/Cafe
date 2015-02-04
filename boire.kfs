@@ -1,0 +1,7 @@
+5:— Voilà patron, j’ai votre $$ !
+<clear>
+Voulez-vous boire votre $$ ?
+----
+exit:200:Ben oui, je l’ai demandé pour ça, crétin des Alpes !
+exit:0:Oui, merci beaucoup, voix dans ma tête.
+exit:255:Hum, non, je verrai ça plus tard.
